@@ -1,0 +1,10 @@
+pip install django_cleanup
+pip install pillow
+pip install pymysql
+pip install django-imagekit
+pip install --upgrade django-crispy-forms
+pip install mysqlclient
+pa_autoconfigure_django.py https://github.com/lucky7-git/fossildb.git --nuke  プル
+python manage.py makemigrations
+python manage.py migrate
+

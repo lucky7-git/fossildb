@@ -3,10 +3,5 @@ li a {
 }
 
 body {
-    background: white url("images/background.gif") no-repeat;
-}
-
-.row{
-    margin-top:3px;
-    margin-bottom:3px;
+    background: white url("images/background.gif") ;
 }

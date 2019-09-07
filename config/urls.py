@@ -31,6 +31,6 @@ urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 #  タイトル；タイトルタグで使用
 admin.site.site_title = 'タイトル'
 #  サイト名：ログイン画面と管理画面上部の表示
-admin.site.site_header = '化石ＤＢentry'
+admin.site.site_header = '化石ＤＢエントリ'
 #  メニュー：管理画面の見出し表示
 admin.site.index_title = 'メニュー'
